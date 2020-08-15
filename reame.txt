@@ -1,0 +1,11 @@
+ Volume in drive E has no label.
+ Volume Serial Number is 0A01-880D
+
+ Directory of E:\jenkins-demo-java
+
+08/15/2020  05:47 PM    <DIR>          .
+08/15/2020  05:47 PM    <DIR>          ..
+08/15/2020  05:47 PM                 0 reame.txt
+08/15/2020  05:19 PM               108 Test.java
+               2 File(s)            108 bytes
+               2 Dir(s)  349,325,774,848 bytes free
